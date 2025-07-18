@@ -1,0 +1,11 @@
+select folder and right click select open with code and create a file then go to back and open the folder with git bash here option
+
+git --version
+git init       .....only once
+git add filename      .....for single file
+git add filename,filename,....,    ....for multiple files
+git add .     .....multiple files
+git commit -m "msg"
+
+git remote add origin url(path---https://github.com/Siri-1022/Sireesha.demo.git)
+git push origin main/master    .........for pushing 
